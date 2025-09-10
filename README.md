@@ -1,4 +1,6 @@
 ### GIT cmd task
-master 
+
+new_b
+test
 
 
